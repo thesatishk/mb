@@ -3,10 +3,10 @@
 from distutils.core import setup
 
 setup(name='moonbot',
-      version='0.0.5',
-      description='kraken.com cryptocurrency exchange API',
-      author='Noel Maersk',
-      author_email='veox@wemakethings.net',
-      url='https://github.com/veox/python2-moonbot',
+      version='0.0.1',
+      description='blasting to the moon',
+      author='Satish Kumar',
+      author_email='thesatishk@icloud.com',
+      url='https://github.com/thesatishk/moonbot.git',
       packages=['moonbot'],
      )
