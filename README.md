@@ -1,4 +1,4 @@
-krakenex
+moonbot
 ========
 
 Kraken.com exchange API, Python 2 package.
@@ -7,7 +7,7 @@ Kraken.com exchange API, Python 2 package.
 Installation
 -----------
 
-Run `python ./setup.py install`. The module will be called `krakenex`.
+Run `python ./setup.py install`. The module will be called `moonbot`.
 
 
 Documentation

@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 
-# This file is part of krakenex.
+# This file is part of moonbot.
 # Licensed under the Simplified BSD license. See examples/LICENSE.
 
 # Demonstrates how to use the conditional close functionality; that is,
@@ -9,9 +9,9 @@
 # This can be useful for very simple automation, where a bot is not
 # needed to constantly monitor execution.
 
-import krakenex
+import moonbot
 
-k = krakenex.API()
+k = moonbot.API()
 k.load_key('kraken.key')
 
 k.query_private('AddOrder', {'pair': 'XXBTZEUR',
